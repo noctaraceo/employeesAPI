@@ -1,0 +1,18 @@
+09:09:45  05/08/2026	786d5704-d41b-477a-8e7d-fd1ea7a9166e	TypeError: res.send is not a function
+09:09:50  05/08/2026	9bea867a-badb-4569-89c3-5d79abb4c27c	TypeError: res.send is not a function
+09:12:07  05/08/2026	30ba9377-6bc5-4b58-8ab9-059e4f1f7dc0	TypeError: res.send is not a function
+09:12:07  05/08/2026	64d3c66b-15ab-456b-84d5-8bfa7e54b869	TypeError: res.send is not a function
+09:18:27  05/08/2026	f36e04b9-2e5a-4aac-8413-28604df4a58d	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+09:19:54  05/08/2026	6afc7d90-6633-4ec4-b4f0-75b210cdeeee	TypeError: res.send is not a function
+09:22:32  05/08/2026	484ed694-cae7-4250-8e39-4a8b3de06f85	ReferenceError: dataFilePath is not defined
+09:22:38  05/08/2026	bb0c3885-bf9a-463e-bd32-e596fc27393d	ReferenceError: dataFilePath is not defined
+09:41:52  05/08/2026	1f4e809b-68fa-4181-9a70-580e9f3185fd	TypeError: res.send is not a function
+09:41:54  05/08/2026	37dd4e23-45b8-4ef3-954f-e3040e94dff0	TypeError: res.send is not a function
+09:52:51  05/08/2026	db28af1e-b51d-49b9-a58e-44e6aba3e9be	Error: unallowed
+08:39:11  06/08/2026	607fabb3-ac21-4638-bfd6-026a15673f2a	Error: unallowed
+08:39:30  06/08/2026	e2c96baf-2e88-4871-9ad1-be52c75eb939	Error: unallowed
+09:40:07  06/08/2026	9536fb4a-ceef-469f-b53b-0ab4537f26cb	TypeError: req.status is not a function
+06:10:08  06/08/2026	8cc5e7dd-9281-4cb1-9298-7f9e1755fcee	ReferenceError: emplyoee is not defined
+06:10:16  06/08/2026	29b14134-08f0-48be-af9d-5a34e8a6a8c4	ReferenceError: emplyoee is not defined
+06:11:12  06/08/2026	3f73cbd3-7044-4e5c-9eca-df5fa5c7de09	TypeError: Reduce of empty array with no initial value
+06:14:01  06/08/2026	533fa267-c809-4ef1-ac8d-c1d0693003fe	TypeError: Reduce of empty array with no initial value
